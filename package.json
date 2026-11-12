@@ -1,0 +1,14 @@
+{
+  "name": "the-fit-standard",
+  "version": "1.0.0",
+  "description": "Landing page for The Fit Standard",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/stylesheet.css -w"
+  },
+  "author": "The Fit Standard",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
